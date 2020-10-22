@@ -1,5 +1,6 @@
 ---
 title: "ESM 206/244 GitHub Testing"
+name: "Yvonne Dinh"
 output: html_document
 ---
 
